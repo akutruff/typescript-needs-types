@@ -1,2 +1,3 @@
-# typescriptneedstypes
-TypeScript is great, but TypeScript doesn't give types at runtime.  This is sad.  
+# TypeScript Needs Types
+
+This is sad, and we need the Type Script to compiler to emit type definitions and type discriminators.  
