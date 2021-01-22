@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## The community needs runtime type information
 
-You can use the [editor on GitHub](https://github.com/akutruff/typescriptneedstypes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[The Github issue](https://github.com/microsoft/TypeScript/issues/3628) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The Plea
 
-### Markdown
 Dear TS team,  
 
 I love you.  You do amazing work.  You are gods among mortals.  You have brought JavaScript from the darkness, and given it the warm light of strong typing.   Look upon us, the cowering meek masses, and understand that we live in the muck and mire of a world where we are doomed to endlessly crawl on our bellies through the alleys of Github [seeking the one true npm](https://youtu.be/Ka9mfZbTFbk?t=18).  We will forever wonder in the dark, until we have a type reflection model.  
@@ -22,4 +21,4 @@ Last thing.  If you do this, I will send you cake.  If it's in TypeScript 4.3, t
 Love, 
 A humble disciple
 
-Edit: Pinging Zeus himself: @ahejlsberg 
+ATTN: @ahejlsberg 
