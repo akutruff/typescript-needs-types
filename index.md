@@ -1,6 +1,6 @@
 [The Github issue](https://github.com/microsoft/TypeScript/issues/3628) 
 
-[test link](#-test)
+[test link](#test)
 
 [The ridiculous list of projects working around this issue](#the-ridiculous-list-of-projects-working-around-this-issue)
 
