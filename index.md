@@ -21,7 +21,7 @@
 - [ts-di-transformer](https://github.com/YePpHa/ts-di-transformer)
 - [ts-validate-type](https://github.com/edbentley/ts-validate-type)
 - [tsmirror](https://github.com/aenario/tsmirror)
-- [tsbox](https://github.com/sinclairzx81/typebox)
+- [typebox](https://github.com/sinclairzx81/typebox)
 - [typeonly](https://itnext.io/bringing-typescript-types-at-runtime-with-typeonly-c317e9dd8880)
 - [typescript-json-schema](https://github.com/YousefED/typescript-json-schema)
 - [ts.validator](https://github.com/VeritasSoftware/ts.validator)
