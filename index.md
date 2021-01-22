@@ -52,7 +52,7 @@ Side note, please don't solve this with decorators.  A lot of us want to use int
 
 Last thing.  If you do this, I will send you cake.  If it's in TypeScript 4.3, there will be ice-cream.  
 
-Love, 
+Love,\
 A humble disciple
 
 ATTN: @ahejlsberg 
