@@ -1,5 +1,3 @@
-## The community needs runtime type information
-
 [The Github issue](https://github.com/microsoft/TypeScript/issues/3628) 
 
 ### The Plea
