@@ -4,7 +4,7 @@
 
 Dear TS team,  
 
-I love you.  You do amazing work.  You are gods among mortals.  You have brought JavaScript from the darkness, and given it the warm light of strong typing.   Look upon us, the cowering meek masses, and understand that we live in the muck and mire of a world where we are doomed to endlessly crawl on our bellies through the alleys of Github [seeking the one true npm](https://youtu.be/deDlab6vFgg?t=133).  We will forever wonder in the dark, until we have a type reflection model.  
+I love you.  You do amazing work.  You are gods among mortals.  You have brought JavaScript from the darkness, and given it the warm light of strong typing.   Look upon us, the cowering meek masses, and understand that we live in the muck and mire of a world where we are doomed to endlessly crawl on our bellies through the alleys of Github [seeking the one true npm](https://youtu.be/deDlab6vFgg?t=134).  We will forever wonder in the dark, until we have a type reflection model.  
 
 Serialization and validation without a reflective type system just doesn't work in the real world without endless boilerplate, or _shiver_, bespoke code generation from a schema file.  The best solutions I could find are [io-ts](https://github.com/gcanti/io-ts), [zod](https://github.com/colinhacks/zod), [myzod](https://github.com/davidmdm/myzod), etc.  [See below for the ever growing list](the-unfortunate-list-of-projects-working-around-this-issue)  The most courageous of us even resort to babel, but only to face the consequences.  We have to declare our types in a round about library-bespoke way that is foreign to the uninitiated, and the libraries aren't even able to support all the wonderful type magic you work so hard to provide.  
 
