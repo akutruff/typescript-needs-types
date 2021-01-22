@@ -1,4 +1,5 @@
 [The 6 year old Github issue](https://github.com/microsoft/TypeScript/issues/3628) 
+
 [The ridiculous list of projects working around this issue](#the-ridiculous-list-of-projects-working-around-this-issue)
 
 Dear TS team,  
