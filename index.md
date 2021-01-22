@@ -4,8 +4,6 @@
 
 [The ridiculous list of projects working around this issue](#the-ridiculous-list-of-projects-working-around-this-issue)
 
-### The Plea
-
 Dear TS team,  
 
 I love you.  You do amazing work.  You are gods among mortals.  You have brought JavaScript from the darkness, and given it the warm light of strong typing.   Look upon us, the cowering meek masses, and understand that we live in the muck and mire of a world where we are doomed to endlessly crawl on our bellies through the alleys of Github [seeking the one true npm](https://youtu.be/Ka9mfZbTFbk?t=18).  We will forever wonder in the dark, until we have a type reflection model.  
@@ -25,10 +23,10 @@ A humble disciple
 
 ATTN: @ahejlsberg 
 
-#The Ridiculous List of Projects Working Around this Issue
+# The Ridiculous List of Projects Working Around this Issue
 
 afaf
 
-#test
+# test
 
 aafa
