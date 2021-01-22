@@ -5,8 +5,6 @@
 
 ### The Unfortunate List of Projects Working Around this Issue
 
-<br/>
-
 ##### Type Mapping Projects
 
 - [io-ts](https://github.com/gcanti/io-ts)
