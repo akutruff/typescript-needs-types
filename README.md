@@ -1,6 +1,41 @@
-[The 6 year old Github issue](https://github.com/microsoft/TypeScript/issues/3628) 
+### TypeScript Needs to Emit Runtime Type Information
 
-[The unfortunate list of projects working around it.](#the-unfortunate-list-of-projects-working-around-this-issue)
+- [The 6 year old Github issue](https://github.com/microsoft/TypeScript/issues/3628) 
+- [The unfortunate list of projects working around it.](#the-unfortunate-list-of-projects-working-around-this-issue)
+- [The Problem](#the-problem)
+
+### The Unfortunate List of Projects Working Around this Issue
+
+- [io-ts](https://github.com/gcanti/io-ts)
+- [zod](https://github.com/colinhacks/zod)
+- [typescript-schema](https://github.com/christyharagan/ts-schema)
+- [ts-runtime](https://github.com/goloveychuk/tsruntime)
+- [ts-morph](https://github.com/dsherret/ts-morph)
+- [myzod](https://github.com/davidmdm/myzod)
+- [yup](https://github.com/jquense/yup)
+- [joi](https://github.com/sideway/joi)
+- [morphic-ts](https://github.com/sledorze/morphic-ts)
+- [monocle-ts](https://github.com/gcanti/monocle-ts)
+- [class-transformer](https://github.com/typestack/class-transformer)
+- [reflect-metadata](https://rbuckton.github.io/reflect-metadata/)
+- [runtypes](https://github.com/pelotom/runtypes)
+- [ts-di-transformer](https://github.com/YePpHa/ts-di-transformer)
+- [ts-validate-type](https://github.com/edbentley/ts-validate-type)
+- [tsmirror](https://github.com/aenario/tsmirror)
+- [tsbox](https://github.com/sinclairzx81/typebox)
+- [typeonly](https://itnext.io/bringing-typescript-types-at-runtime-with-typeonly-c317e9dd8880)
+- [typescript-json-schema](https://github.com/YousefED/typescript-json-schema)
+- [ts.validator](https://github.com/VeritasSoftware/ts.validator)
+- [tson-schema](https://www.npmjs.com/package/tson-schema)
+- [typescript-is](https://github.com/woutervh-/typescript-is)
+- [ts-auto-guard](https://github.com/rhys-vdw/ts-auto-guard)
+- [json-type-validation](https://github.com/mojotech/json-type-validation)
+- [redux-orm](https://github.com/redux-orm/redux-orm)
+- [class-transformer-validator](https://github.com/MichalLytek/class-transformer-validator)
+
+Please file an [issue](https://github.com/akutruff/typescript-needs-types/issues) or send a PR to add to this list.
+
+### The Problem
 
 Dear TS team,  
 
@@ -23,35 +58,3 @@ A humble disciple
 
 ATTN: @ahejlsberg 
 
-### The Unfortunate List of Projects Working Around this Issue
-
-Please send a PR to add to this list.
-
-- [io-ts](https://github.com/gcanti/io-ts)
-- [zod](https://github.com/colinhacks/zod)
-- [typescript-schema](https://github.com/christyharagan/ts-schema)
-- [ts-runtime](https://github.com/goloveychuk/tsruntime)
-- [ts-morph](https://github.com/dsherret/ts-morph)
-- [myzod](https://github.com/davidmdm/myzod)
-- [ts-di-transformer](https://github.com/YePpHa/ts-di-transformer)
-- [reflect-metadata](https://rbuckton.github.io/reflect-metadata/)
-- [ts-validate-type](https://github.com/edbentley/ts-validate-type)
-- [tsmirror](https://github.com/aenario/tsmirror)
-- [tsbox](https://github.com/sinclairzx81/typebox)
-- [typeonly](https://itnext.io/bringing-typescript-types-at-runtime-with-typeonly-c317e9dd8880)
-- [typescript-json-schema](https://github.com/YousefED/typescript-json-schema)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-Please file an [issue](https://github.com/akutruff/typescript-needs-types/issues) to add to this list.
-
-#### Projects that would benefit.  
-
-- [redux-orm](https://github.com/redux-orm/redux-orm)
-
-#### Attempted, abandoned, defunct or deprectated.
-- typeonly-checker was [here](https://github.com/tomko-team/typeonly-checker)
