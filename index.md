@@ -32,7 +32,7 @@
 - [redux-orm](https://github.com/redux-orm/redux-orm)
 - [class-transformer-validator](https://github.com/MichalLytek/class-transformer-validator)
 
-Please file an [issue](https://github.com/akutruff/typescript-needs-types/issues) or send a PR to add to this list.
+Please file an [issue](https://github.com/akutruff/typescript-needs-types/issues) or send a PR to add to this list.   Even if it's your own project and it has zero stars, you had to deal with this, so it goes on the list. 
 
 ### The Problem
 
