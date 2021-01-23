@@ -24,6 +24,7 @@
 - [json-type-validation](https://github.com/mojotech/json-type-validation)
 - [class-transformer](https://github.com/typestack/class-transformer)
 - [class-transformer-validator](https://github.com/MichalLytek/class-transformer-validator)
+- [narrows](https://gitlab.com/jakelazaroff/narrows)
 
 ##### Code Generation / External Tool Projects
 - [ts-runtime](https://github.com/goloveychuk/tsruntime)
