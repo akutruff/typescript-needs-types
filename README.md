@@ -7,8 +7,6 @@
 
 ##### Type Mapping Projects
 
-##### Type Mapping Projects
-
 | Project | Stars |
 | --- | --- |
 | [io-ts](https://github.com/gcanti/io-ts) | ![GitHub stars](https://img.shields.io/github/stars/gcanti/io-ts.svg?style=social&label=☆&maxAge=2592000) |
