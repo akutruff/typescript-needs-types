@@ -7,36 +7,43 @@
 
 ##### Type Mapping Projects
 
-- [io-ts](https://github.com/gcanti/io-ts)
-- [zod](https://github.com/colinhacks/zod)
-- [typescript-schema](https://github.com/christyharagan/ts-schema)
-- [runtypes](https://github.com/pelotom/runtypes)
-- [typebox](https://github.com/sinclairzx81/typebox)
-- [reflect-metadata](https://rbuckton.github.io/reflect-metadata/)
-- [myzod](https://github.com/davidmdm/myzod)
-- [yup](https://github.com/jquense/yup)
-- [joi](https://github.com/sideway/joi)
-- [morphic-ts](https://github.com/sledorze/morphic-ts)
-- [monocle-ts](https://github.com/gcanti/monocle-ts)
-- [redux-orm](https://github.com/redux-orm/redux-orm)
-- [ts.validator](https://github.com/VeritasSoftware/ts.validator)
-- [tson-schema](https://www.npmjs.com/package/tson-schema)
-- [json-type-validation](https://github.com/mojotech/json-type-validation)
-- [class-transformer](https://github.com/typestack/class-transformer)
-- [class-transformer-validator](https://github.com/MichalLytek/class-transformer-validator)
-- [narrows](https://gitlab.com/jakelazaroff/narrows)
+##### Type Mapping Projects
+
+| Project | Stars |
+| --- | --- |
+| [io-ts](https://github.com/gcanti/io-ts) | [![GitHub stars](https://img.shields.io/github/stars/gcanti/io-ts.svg?style=social&label=☆&maxAge=2592000) |
+| [zod](https://github.com/colinhacks/zod) | [![GitHub stars](https://img.shields.io/github/stars/colinhacks/zod.svg?style=social&label=☆&maxAge=2592000) |
+| [redux-orm](https://github.com/redux-orm/redux-orm) | [![GitHub stars](https://img.shields.io/github/stars/redux-orm/redux-orm.svg?style=social&label=☆&maxAge=2592000) |
+| [runtypes](https://github.com/pelotom/runtypes) | [![GitHub stars](https://img.shields.io/github/stars/pelotom/runtypes.svg?style=social&label=☆&maxAge=2592000) |
+| [class-transformer](https://github.com/typestack/class-transformer) | [![GitHub stars](https://img.shields.io/github/stars/typestack/class-transformer.svg?style=social&label=☆&maxAge=2592000) |
+| [reflect-metadata](https://rbuckton.github.io/reflect-metadata/) | [![GitHub stars](https://img.shields.io/github/stars/rbuckton/reflect-metadata.svg?style=social&label=☆&maxAge=2592000) |
+| [typebox](https://github.com/sinclairzx81/typebox) | [![GitHub stars](https://img.shields.io/github/stars/sinclairzx81/typebox.svg?style=social&label=☆&maxAge=2592000) |
+| [myzod](https://github.com/davidmdm/myzod) | [![GitHub stars](https://img.shields.io/github/stars/davidmdm/myzod.svg?style=social&label=☆&maxAge=2592000) |
+| [morphic-ts](https://github.com/sledorze/morphic-ts) | [![GitHub stars](https://img.shields.io/github/stars/sledorze/morphic-ts.svg?style=social&label=☆&maxAge=2592000) |
+| [monocle-ts](https://github.com/gcanti/monocle-ts) | [![GitHub stars](https://img.shields.io/github/stars/gcanti/monocle-ts.svg?style=social&label=☆&maxAge=2592000) |
+| [ts.validator](https://github.com/VeritasSoftware/ts.validator) | [![GitHub stars](https://img.shields.io/github/stars/VeritasSoftware/ts.validator.svg?style=social&label=☆&maxAge=2592000) |
+| [tson-schema](https://www.npmjs.com/package/tson-schema) | [![GitHub stars](https://img.shields.io/github/stars/mjwwit/tson-schema.svg?style=social&label=☆&maxAge=2592000) |
+| [json-type-validation](https://github.com/mojotech/json-type-validation) | [![GitHub stars](https://img.shields.io/github/stars/mojotech/json-type-validation.svg?style=social&label=☆&maxAge=2592000) |
+| [class-transformer-validator](https://github.com/MichalLytek/class-transformer-validator) | [![GitHub stars](https://img.shields.io/github/stars/MichalLytek/class-transformer-validator.svg?style=social&label=☆&maxAge=2592000) |
+| [typescript-schema](https://github.com/christyharagan/ts-schema) | [![GitHub stars](https://img.shields.io/github/stars/christyharagan/ts-schema.svg?style=social&label=☆&maxAge=2592000) |
+| [narrows](https://gitlab.com/jakelazaroff/narrows) | [![GitHub stars](https://img.shields.io/github/stars/jakelazaroff/narrows.svg?style=social&label=☆&maxAge=2592000) |
+| [yup](https://github.com/jquense/yup) | [![GitHub stars](https://img.shields.io/github/stars/jquense/yup.svg?style=social&label=☆&maxAge=2592000) |
+| [joi](https://github.com/sideway/joi) | [![GitHub stars](https://img.shields.io/github/stars/sideway/joi.svg?style=social&label=☆&maxAge=2592000) |
 
 ##### Code Generation / External Tool Projects
-- [ts-runtime](https://github.com/goloveychuk/tsruntime)
-- [ts-morph](https://github.com/dsherret/ts-morph)
-- [ts-di-transformer](https://github.com/YePpHa/ts-di-transformer)
-- [ts-validate-type](https://github.com/edbentley/ts-validate-type)
-- [tsmirror](https://github.com/aenario/tsmirror)
-- [typeonly](https://itnext.io/bringing-typescript-types-at-runtime-with-typeonly-c317e9dd8880)
-- [typescript-json-schema](https://github.com/YousefED/typescript-json-schema)
-- [typescript-is](https://github.com/woutervh-/typescript-is)
-- [ts-auto-guard](https://github.com/rhys-vdw/ts-auto-guard)
-- [tsnameof](https://github.com/dsherret/ts-nameof)
+
+| Project | Stars |
+| --- | --- |
+| [ts-morph](https://github.com/dsherret/ts-morph) | [![GitHub stars](https://img.shields.io/github/stars/dsherret/ts-morph.svg?style=social&label=☆&maxAge=2592000) |
+| [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) | [![GitHub stars](https://img.shields.io/github/stars/YousefED/typescript-json-schema.svg?style=social&label=☆&maxAge=2592000) |
+| [typescript-is](https://github.com/woutervh-/typescript-is) | [![GitHub stars](https://img.shields.io/github/stars/woutervh-/typescript-is.svg?style=social&label=☆&maxAge=2592000) |
+| [tsnameof](https://github.com/dsherret/ts-nameof) | [![GitHub stars](https://img.shields.io/github/stars/dsherret/ts-nameof.svg?style=social&label=☆&maxAge=2592000) |
+| [ts-auto-guard](https://github.com/rhys-vdw/ts-auto-guard) | [![GitHub stars](https://img.shields.io/github/stars/rhys-vdw/ts-auto-guard.svg?style=social&label=☆&maxAge=2592000) |
+| [ts-validate-type](https://github.com/edbentley/ts-validate-type) | [![GitHub stars](https://img.shields.io/github/stars/edbentley/ts-validate-type?style=social&label=☆&maxAge=2592000) |
+| [tsmirror](https://github.com/aenario/tsmirror) | [![GitHub stars](https://img.shields.io/github/stars/aenario/tsmirror.svg?style=social&label=☆&maxAge=2592000) |
+| [typeonly](https://itnext.io/bringing-typescript-types-at-runtime-with-typeonly-c317e9dd8880) | [![GitHub stars](https://img.shields.io/github/stars/paroi-tech/typeonly.svg?style=social&label=☆&maxAge=2592000) |
+| [ts-runtime](https://github.com/goloveychuk/tsruntime) | [![GitHub stars](https://img.shields.io/github/stars/goloveychuk/tsruntime.svg?style=social&label=☆&maxAge=2592000)] |
+| [ts-di-transformer](https://github.com/YePpHa/ts-di-transformer) | [![GitHub stars](https://img.shields.io/github/stars/YePpHa/ts-di-transformer.svg?style=social&label=☆&maxAge=2592000) |
 
 Please file an [issue](https://github.com/akutruff/typescript-needs-types/issues) or send a PR to add to this list.   Even if it's your own project and it has zero stars, you had to deal with this, so it goes on the list. 
 
@@ -60,5 +67,3 @@ Love,\
 A humble disciple
 
 ATTN: @ahejlsberg 
-
-
