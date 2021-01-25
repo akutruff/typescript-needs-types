@@ -50,8 +50,6 @@ Serialization and validation without a reflective type system just doesn't work 
 
 This is a case, where we urge you to take a step back and holistically look at what TypeScript users have to do to in the majority of modern projects, and list them out in priority order.  The decision of how to tackle serialization, and what actually has to be done to have TypeScript still work with it is at the top of the list.  Even if you still don't want to support reflection, please write a detailed doc, and put it in the official TypeScript documentation that explains how TypeScript users should tackle this problem or what library you recommend, so we don't have endlessly reinvent the wheel.
 
-Second, and maybe even more importantly is type based dispatch.  Redux actions need a discriminator property such as ```type: 'incrementCounter'``` Without runtime type information for the string literal, we resort to having to have the interface as a generic argument, and the string literal for the discriminator explicitly declared over and over.  The moment we rename the type, the string literal discriminator needs to be renamed too, and the tools can't deal with it for us.  The official Redux Toolkit's [createAction](https://redux-toolkit.js.org/usage/usage-with-typescript#createaction) does the best it can, but then their concept of "matchers" are now everywhere in your code base.  This is because it's impossible to make a map of discriminator value to a TypeScript type to perform the downcast that you need for any message based dispatch map.  Please add a way to automatically declare a property on an interface with the discriminator set to a string literal, and a casting map to disambiguate.
-
 There seems to be a conflict between the design goals of TypeScript that is blocking this for some reason.  Type erasure is good!  It means JavaScript project can consume TypeScript projects without any knowledge of TypeScript.  It's just emitted JavaScript.  This does not mean you can't emit the type information separately in a consumable lookup table that's  separate from the code.  The lack of this type information means we use esoteric libraries which ultimately pollute the JavaScript with all the convoluted typing working arounds... soo... type erasure has defeated the purpose of type erasure.  It's a second order effect, where the design goal defeats the design goal. :(  
 
 Side note, please don't solve this with decorators.  A lot of us want to use interfaces.  Decorators, like C# attributes are so coupling, and we can't add them to types from other libraries.  A higher order function that's known to the compiler like: ```typescript.generateRuntimeType<T>()``` with options for discriminators etc. means it would even work with external libs.  Something like F# Type Providers, or C# Source Generators would also be welcome. 
@@ -62,4 +60,5 @@ Love,\
 A humble disciple
 
 ATTN: @ahejlsberg 
+
 
