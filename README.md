@@ -25,6 +25,7 @@
 | [json-type-validation](https://github.com/mojotech/json-type-validation) | ![GitHub stars](https://img.shields.io/github/stars/mojotech/json-type-validation.svg?style=social&label=☆&maxAge=2592000) |
 | [class-transformer-validator](https://github.com/MichalLytek/class-transformer-validator) | ![GitHub stars](https://img.shields.io/github/stars/MichalLytek/class-transformer-validator.svg?style=social&label=☆&maxAge=2592000) |
 | [typescript-schema](https://github.com/christyharagan/ts-schema) | ![GitHub stars](https://img.shields.io/github/stars/christyharagan/ts-schema.svg?style=social&label=☆&maxAge=2592000) |
+| [ts-brand](https://github.com/kourge/ts-brand) | ![GitHub stars](https://img.shields.io/github/stars/kourge/ts-brand.svg?style=social&label=☆&maxAge=2592000) |
 | [narrows](https://gitlab.com/jakelazaroff/narrows) | ![GitHub stars](https://img.shields.io/github/stars/jakelazaroff/narrows.svg?style=social&label=☆&maxAge=2592000) |
 | [yup](https://github.com/jquense/yup) | ![GitHub stars](https://img.shields.io/github/stars/jquense/yup.svg?style=social&label=☆&maxAge=2592000) |
 | [joi](https://github.com/sideway/joi) | ![GitHub stars](https://img.shields.io/github/stars/sideway/joi.svg?style=social&label=☆&maxAge=2592000) |
