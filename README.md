@@ -17,7 +17,6 @@
 | [ow](https://github.com/sindresorhus/ow) | ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/ow.svg?style=social&label=☆&maxAge=2592000) |
 | [reflect-metadata](https://rbuckton.github.io/reflect-metadata/) | ![GitHub stars](https://img.shields.io/github/stars/rbuckton/reflect-metadata.svg?style=social&label=☆&maxAge=2592000) |
 | [typebox](https://github.com/sinclairzx81/typebox) | ![GitHub stars](https://img.shields.io/github/stars/sinclairzx81/typebox.svg?style=social&label=☆&maxAge=2592000) |
-| [SimplyTyped](https://github.com/andnp/SimplyTyped) | ![GitHub stars](https://img.shields.io/github/stars/andnp/SimplyTyped.svg?style=social&label=☆&maxAge=2592000) |
 | [myzod](https://github.com/davidmdm/myzod) | ![GitHub stars](https://img.shields.io/github/stars/davidmdm/myzod.svg?style=social&label=☆&maxAge=2592000) |
 | [morphic-ts](https://github.com/sledorze/morphic-ts) | ![GitHub stars](https://img.shields.io/github/stars/sledorze/morphic-ts.svg?style=social&label=☆&maxAge=2592000) |
 | [monocle-ts](https://github.com/gcanti/monocle-ts) | ![GitHub stars](https://img.shields.io/github/stars/gcanti/monocle-ts.svg?style=social&label=☆&maxAge=2592000) |
