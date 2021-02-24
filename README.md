@@ -47,7 +47,7 @@
 | [ts-di-transformer](https://github.com/YePpHa/ts-di-transformer) | ![GitHub stars](https://img.shields.io/github/stars/YePpHa/ts-di-transformer.svg?style=social&label=☆&maxAge=2592000) |
 | [typson](https://github.com/lbovet/typson) | ![GitHub stars](https://img.shields.io/github/stars/lbovet/typson.svg?style=social&label=☆&maxAge=2592000) |
 | [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) | ![GitHub stars](https://img.shields.io/github/stars/vega/ts-json-schema-generator.svg?style=social&label=☆&maxAge=2592000) |
-| [ts-type-checked](https://github.com/janjakubnanista/ts-type-checked) | ![GitHub stars](https://img.shields.io/github/stars/vega/janjakubnanista/ts-type-checked.svg?style=social&label=☆&maxAge=2592000) |
+| [ts-type-checked](https://github.com/janjakubnanista/ts-type-checked) | ![GitHub stars](https://img.shields.io/github/stars/janjakubnanista/ts-type-checked.svg?style=social&label=☆&maxAge=2592000) |
 
 
 Please file an [issue](https://github.com/akutruff/typescript-needs-types/issues) or send a PR to add to this list.   Even if it's your own project and it has zero stars, you had to deal with this, so it goes on the list. 
