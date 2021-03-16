@@ -14,6 +14,7 @@
 | [redux-orm](https://github.com/redux-orm/redux-orm) | ![GitHub stars](https://img.shields.io/github/stars/redux-orm/redux-orm.svg?style=social&label=☆&maxAge=2592000) |
 | [runtypes](https://github.com/pelotom/runtypes) | ![GitHub stars](https://img.shields.io/github/stars/pelotom/runtypes.svg?style=social&label=☆&maxAge=2592000) |
 | [class-transformer](https://github.com/typestack/class-transformer) | ![GitHub stars](https://img.shields.io/github/stars/typestack/class-transformer.svg?style=social&label=☆&maxAge=2592000) |
+| [class-validator](https://github.com/typestack/class-validator) | ![GitHub stars](https://img.shields.io/github/stars/typestack/class-validator.svg?style=social&label=☆&maxAge=2592000) |
 | [ow](https://github.com/sindresorhus/ow) | ![GitHub stars](https://img.shields.io/github/stars/sindresorhus/ow.svg?style=social&label=☆&maxAge=2592000) |
 | [reflect-metadata](https://rbuckton.github.io/reflect-metadata/) | ![GitHub stars](https://img.shields.io/github/stars/rbuckton/reflect-metadata.svg?style=social&label=☆&maxAge=2592000) |
 | [typebox](https://github.com/sinclairzx81/typebox) | ![GitHub stars](https://img.shields.io/github/stars/sinclairzx81/typebox.svg?style=social&label=☆&maxAge=2592000) |
@@ -27,9 +28,9 @@
 | [typescript-schema](https://github.com/christyharagan/ts-schema) | ![GitHub stars](https://img.shields.io/github/stars/christyharagan/ts-schema.svg?style=social&label=☆&maxAge=2592000) |
 | [ts-brand](https://github.com/kourge/ts-brand) | ![GitHub stars](https://img.shields.io/github/stars/kourge/ts-brand.svg?style=social&label=☆&maxAge=2592000) |
 | [narrows](https://gitlab.com/jakelazaroff/narrows) | ![GitHub stars](https://img.shields.io/github/stars/jakelazaroff/narrows.svg?style=social&label=☆&maxAge=2592000) |
+| [cleaners](https://github.com/swansontec/cleaners) | ![GitHub stars](https://img.shields.io/github/stars/swansontec/cleaners.svg?style=social&label=☆&maxAge=2592000) |
 | [yup](https://github.com/jquense/yup) | ![GitHub stars](https://img.shields.io/github/stars/jquense/yup.svg?style=social&label=☆&maxAge=2592000) |
 | [joi](https://github.com/sideway/joi) | ![GitHub stars](https://img.shields.io/github/stars/sideway/joi.svg?style=social&label=☆&maxAge=2592000) |
-
 
 ##### Code Generation / External Tool Projects
 
