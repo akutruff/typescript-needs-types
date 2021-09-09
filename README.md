@@ -32,6 +32,7 @@
 | [yup](https://github.com/jquense/yup) | ![GitHub stars](https://img.shields.io/github/stars/jquense/yup.svg?style=social&label=☆&maxAge=2592000) |
 | [joi](https://github.com/sideway/joi) | ![GitHub stars](https://img.shields.io/github/stars/sideway/joi.svg?style=social&label=☆&maxAge=2592000) |
 | [TypeGraphQL](https://github.com/MichalLytek/type-graphql) | ![GitHub stars](https://img.shields.io/github/stars/MichalLytek/type-graphql.svg?style=social&label=☆&maxAge=2592000) |
+| [Deepkit](https://github.com/deepkit/deepkit-framework) | ![GitHub stars](https://img.shields.io/github/stars/deepkit/deepkit-framework.svg?style=social&label=☆&maxAge=2592000) |
 
 ##### Code Generation / External Tool Projects
 
