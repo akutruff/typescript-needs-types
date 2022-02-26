@@ -38,21 +38,22 @@
 
 ##### Code Generation / External Tool Projects
 
-| Project | Stars |
+| Project                                                                                       | Stars |
 | --- | --- |
-| [ts-morph](https://github.com/dsherret/ts-morph) | ![GitHub stars](https://img.shields.io/github/stars/dsherret/ts-morph.svg?style=social&label=☆&maxAge=2592000) |
-| [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) | ![GitHub stars](https://img.shields.io/github/stars/YousefED/typescript-json-schema.svg?style=social&label=☆&maxAge=2592000) |
-| [typescript-is](https://github.com/woutervh-/typescript-is) | ![GitHub stars](https://img.shields.io/github/stars/woutervh-/typescript-is.svg?style=social&label=☆&maxAge=2592000) |
-| [tsnameof](https://github.com/dsherret/ts-nameof) | ![GitHub stars](https://img.shields.io/github/stars/dsherret/ts-nameof.svg?style=social&label=☆&maxAge=2592000) |
-| [ts-auto-guard](https://github.com/rhys-vdw/ts-auto-guard) | ![GitHub stars](https://img.shields.io/github/stars/rhys-vdw/ts-auto-guard.svg?style=social&label=☆&maxAge=2592000) |
-| [ts-validate-type](https://github.com/edbentley/ts-validate-type) | ![GitHub stars](https://img.shields.io/github/stars/edbentley/ts-validate-type?style=social&label=☆&maxAge=2592000) |
-| [tsmirror](https://github.com/aenario/tsmirror) | ![GitHub stars](https://img.shields.io/github/stars/aenario/tsmirror.svg?style=social&label=☆&maxAge=2592000) |
+| [ts-morph](https://github.com/dsherret/ts-morph)                                              | ![GitHub stars](https://img.shields.io/github/stars/dsherret/ts-morph.svg?style=social&label=☆&maxAge=2592000) |
+| [typescript-json-schema](https://github.com/YousefED/typescript-json-schema)                  | ![GitHub stars](https://img.shields.io/github/stars/YousefED/typescript-json-schema.svg?style=social&label=☆&maxAge=2592000) |
+| [typescript-is](https://github.com/woutervh-/typescript-is)                                   | ![GitHub stars](https://img.shields.io/github/stars/woutervh-/typescript-is.svg?style=social&label=☆&maxAge=2592000) |
+| [tsnameof](https://github.com/dsherret/ts-nameof)                                             | ![GitHub stars](https://img.shields.io/github/stars/dsherret/ts-nameof.svg?style=social&label=☆&maxAge=2592000) |
+| [ts-auto-guard](https://github.com/rhys-vdw/ts-auto-guard)                                    | ![GitHub stars](https://img.shields.io/github/stars/rhys-vdw/ts-auto-guard.svg?style=social&label=☆&maxAge=2592000) |
+| [ts-validate-type](https://github.com/edbentley/ts-validate-type)                             | ![GitHub stars](https://img.shields.io/github/stars/edbentley/ts-validate-type?style=social&label=☆&maxAge=2592000) |
+| [tsmirror](https://github.com/aenario/tsmirror)                                               | ![GitHub stars](https://img.shields.io/github/stars/aenario/tsmirror.svg?style=social&label=☆&maxAge=2592000) |
 | [typeonly](https://itnext.io/bringing-typescript-types-at-runtime-with-typeonly-c317e9dd8880) | ![GitHub stars](https://img.shields.io/github/stars/paroi-tech/typeonly.svg?style=social&label=☆&maxAge=2592000) |
-| [ts-runtime](https://github.com/goloveychuk/tsruntime) | ![GitHub stars](https://img.shields.io/github/stars/goloveychuk/tsruntime.svg?style=social&label=☆&maxAge=2592000) |
-| [ts-di-transformer](https://github.com/YePpHa/ts-di-transformer) | ![GitHub stars](https://img.shields.io/github/stars/YePpHa/ts-di-transformer.svg?style=social&label=☆&maxAge=2592000) |
-| [typson](https://github.com/lbovet/typson) | ![GitHub stars](https://img.shields.io/github/stars/lbovet/typson.svg?style=social&label=☆&maxAge=2592000) |
-| [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) | ![GitHub stars](https://img.shields.io/github/stars/vega/ts-json-schema-generator.svg?style=social&label=☆&maxAge=2592000) |
-| [ts-type-checked](https://github.com/janjakubnanista/ts-type-checked) | ![GitHub stars](https://img.shields.io/github/stars/janjakubnanista/ts-type-checked.svg?style=social&label=☆&maxAge=2592000) |
+| [ts-runtime](https://github.com/goloveychuk/tsruntime)                                        | ![GitHub stars](https://img.shields.io/github/stars/goloveychuk/tsruntime.svg?style=social&label=☆&maxAge=2592000) |
+| [ts-di-transformer](https://github.com/YePpHa/ts-di-transformer)                              | ![GitHub stars](https://img.shields.io/github/stars/YePpHa/ts-di-transformer.svg?style=social&label=☆&maxAge=2592000) |
+| [typson](https://github.com/lbovet/typson)                                                    | ![GitHub stars](https://img.shields.io/github/stars/lbovet/typson.svg?style=social&label=☆&maxAge=2592000) |
+| [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator)                  | ![GitHub stars](https://img.shields.io/github/stars/vega/ts-json-schema-generator.svg?style=social&label=☆&maxAge=2592000) |
+| [ts-type-checked](https://github.com/janjakubnanista/ts-type-checked)                         | ![GitHub stars](https://img.shields.io/github/stars/janjakubnanista/ts-type-checked.svg?style=social&label=☆&maxAge=2592000) |
+| [tst-reflect](https://github.com/Hookyns/tst-reflect)                                         | ![GitHub stars](https://img.shields.io/github/stars/Hookyns/tst-reflect.svg?style=social&label=☆&maxAge=2592000) |
 
 
 Please file an [issue](https://github.com/akutruff/typescript-needs-types/issues) or send a PR to add to this list.   Even if it's your own project and it has zero stars, you had to deal with this, so it goes on the list. 
