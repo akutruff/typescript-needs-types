@@ -1,7 +1,7 @@
 ### TypeScript Needs to Emit Runtime Type Information
 
 - [The Problem](#the-problem)
-- [The 6 year old Github issue](https://github.com/microsoft/TypeScript/issues/3628) 
+- [The 7 year old Github issue](https://github.com/microsoft/TypeScript/issues/3628) 
 
 ### The Unfortunate List of Projects Working Around this Issue
 
