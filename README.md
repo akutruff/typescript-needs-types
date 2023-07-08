@@ -56,6 +56,7 @@
 | [ts-type-checked](https://github.com/janjakubnanista/ts-type-checked) | ![GitHub stars](https://img.shields.io/github/stars/janjakubnanista/ts-type-checked.svg?style=social&label=☆&maxAge=2592000) |
 | [tst-reflect](https://github.com/Hookyns/tst-reflect) | ![GitHub stars](https://img.shields.io/github/stars/Hookyns/tst-reflect.svg?style=social&label=☆&maxAge=2592000) |
 | [ttype-safe](https://github.com/donflopez/ttype-safe) | ![GitHub stars](https://img.shields.io/github/stars/donflopez/ttype-safe.svg?style=social&label=☆&maxAge=2592000) |
+| [typia](https://github.com/samchon/typia) | ![GitHub stars](https://img.shields.io/github/stars/samchon/typia.svg?style=social&label=☆&maxAge=2592000) |
 
 Please send a PR to add to this list.   Even if it's your own project and it has zero stars, you had to deal with this, so it goes on the list. 
 
