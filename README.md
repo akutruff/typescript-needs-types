@@ -35,6 +35,7 @@
 | [Deepkit](https://github.com/deepkit/deepkit-framework) | ![GitHub stars](https://img.shields.io/github/stars/deepkit/deepkit-framework.svg?style=social&label=☆&maxAge=2592000) |
 | [Gubu](https://github.com/rjrodger/gubu) | ![GitHub stars](https://img.shields.io/github/stars/rjrodger/gubu.svg?style=social&label=☆&maxAge=2592000) |
 | [typescript-rtti](https://github.com/rezonant/typescript-rtti) | ![GitHub stars](https://img.shields.io/github/stars/rezonant/typescript-rtti.svg?style=social&label=☆&maxAge=2592000) |
+| [unknownutil](https://github.com/lambdalisue/deno-unknownutil) | ![GitHub stars](https://img.shields.io/github/stars/lambdalisue/deno-unknownutil.svg?style=social&label=☆&maxAge=2592000) |
 
 ##### Code Generation / External Tool Projects
 
