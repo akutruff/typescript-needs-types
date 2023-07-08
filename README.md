@@ -11,6 +11,7 @@
 | --- | --- |
 | [io-ts](https://github.com/gcanti/io-ts) | ![GitHub stars](https://img.shields.io/github/stars/gcanti/io-ts.svg?style=social&label=☆&maxAge=2592000) |
 | [zod](https://github.com/colinhacks/zod) | ![GitHub stars](https://img.shields.io/github/stars/colinhacks/zod.svg?style=social&label=☆&maxAge=2592000) |
+| [cast.ts](https://github.com/beenotung/cast.ts) | ![GitHub stars](https://img.shields.io/github/stars/beenotung/cast.ts.svg?style=social&label=☆&maxAge=2592000) |
 | [redux-orm](https://github.com/redux-orm/redux-orm) | ![GitHub stars](https://img.shields.io/github/stars/redux-orm/redux-orm.svg?style=social&label=☆&maxAge=2592000) |
 | [runtypes](https://github.com/pelotom/runtypes) | ![GitHub stars](https://img.shields.io/github/stars/pelotom/runtypes.svg?style=social&label=☆&maxAge=2592000) |
 | [class-transformer](https://github.com/typestack/class-transformer) | ![GitHub stars](https://img.shields.io/github/stars/typestack/class-transformer.svg?style=social&label=☆&maxAge=2592000) |
@@ -42,6 +43,7 @@
 | Project | Stars |
 | --- | --- |
 | [ts-morph](https://github.com/dsherret/ts-morph) | ![GitHub stars](https://img.shields.io/github/stars/dsherret/ts-morph.svg?style=social&label=☆&maxAge=2592000) |
+| [tsc-macro](https://github.com/beenotung/tsc-macro) | ![GitHub stars](https://img.shields.io/github/stars/beenotung/tsc-macro.svg?style=social&label=☆&maxAge=2592000) |
 | [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) | ![GitHub stars](https://img.shields.io/github/stars/YousefED/typescript-json-schema.svg?style=social&label=☆&maxAge=2592000) |
 | [typescript-is](https://github.com/woutervh-/typescript-is) | ![GitHub stars](https://img.shields.io/github/stars/woutervh-/typescript-is.svg?style=social&label=☆&maxAge=2592000) |
 | [tsnameof](https://github.com/dsherret/ts-nameof) | ![GitHub stars](https://img.shields.io/github/stars/dsherret/ts-nameof.svg?style=social&label=☆&maxAge=2592000) |
