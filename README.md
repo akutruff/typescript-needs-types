@@ -5,12 +5,6 @@
 
 ### The Unfortunate List of Projects Working Around this Issue
 
-##### Adapter Projects
-
-| Project | Stars |
-| --- | --- |
-| [typeschema](https://github.com/decs/typeschema) | ![GitHub stars](https://img.shields.io/github/stars/decs/typeschema.svg?style=social&label=☆&maxAge=2592000) |
-
 ##### Type Mapping Projects
 
 | Project | Stars |
@@ -62,8 +56,13 @@
 | [tst-reflect](https://github.com/Hookyns/tst-reflect) | ![GitHub stars](https://img.shields.io/github/stars/Hookyns/tst-reflect.svg?style=social&label=☆&maxAge=2592000) |
 | [ttype-safe](https://github.com/donflopez/ttype-safe) | ![GitHub stars](https://img.shields.io/github/stars/donflopez/ttype-safe.svg?style=social&label=☆&maxAge=2592000) |
 
+Please send a PR to add to this list.   Even if it's your own project and it has zero stars, you had to deal with this, so it goes on the list. 
 
-Please file an [issue](https://github.com/akutruff/typescript-needs-types/issues) or send a PR to add to this list.   Even if it's your own project and it has zero stars, you had to deal with this, so it goes on the list. 
+##### Adapter Projects
+
+| Project | Stars |
+| --- | --- |
+| [typeschema](https://github.com/decs/typeschema) | ![GitHub stars](https://img.shields.io/github/stars/decs/typeschema.svg?style=social&label=☆&maxAge=2592000) |
 
 ### The Problem
 
