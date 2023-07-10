@@ -11,7 +11,6 @@
 | --- | --- |
 | [io-ts](https://github.com/gcanti/io-ts) | ![GitHub stars](https://img.shields.io/github/stars/gcanti/io-ts.svg?style=social&label=☆&maxAge=2592000) |
 | [zod](https://github.com/colinhacks/zod) | ![GitHub stars](https://img.shields.io/github/stars/colinhacks/zod.svg?style=social&label=☆&maxAge=2592000) |
-| [cast.ts](https://github.com/beenotung/cast.ts) | ![GitHub stars](https://img.shields.io/github/stars/beenotung/cast.ts.svg?style=social&label=☆&maxAge=2592000) |
 | [redux-orm](https://github.com/redux-orm/redux-orm) | ![GitHub stars](https://img.shields.io/github/stars/redux-orm/redux-orm.svg?style=social&label=☆&maxAge=2592000) |
 | [runtypes](https://github.com/pelotom/runtypes) | ![GitHub stars](https://img.shields.io/github/stars/pelotom/runtypes.svg?style=social&label=☆&maxAge=2592000) |
 | [class-transformer](https://github.com/typestack/class-transformer) | ![GitHub stars](https://img.shields.io/github/stars/typestack/class-transformer.svg?style=social&label=☆&maxAge=2592000) |
@@ -37,6 +36,7 @@
 | [Gubu](https://github.com/rjrodger/gubu) | ![GitHub stars](https://img.shields.io/github/stars/rjrodger/gubu.svg?style=social&label=☆&maxAge=2592000) |
 | [typescript-rtti](https://github.com/rezonant/typescript-rtti) | ![GitHub stars](https://img.shields.io/github/stars/rezonant/typescript-rtti.svg?style=social&label=☆&maxAge=2592000) |
 | [unknownutil](https://github.com/lambdalisue/deno-unknownutil) | ![GitHub stars](https://img.shields.io/github/stars/lambdalisue/deno-unknownutil.svg?style=social&label=☆&maxAge=2592000) |
+| [cast.ts](https://github.com/beenotung/cast.ts) | ![GitHub stars](https://img.shields.io/github/stars/beenotung/cast.ts.svg?style=social&label=☆&maxAge=2592000) |
 
 ##### Code Generation / External Tool Projects
 
