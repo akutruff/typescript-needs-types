@@ -1,7 +1,7 @@
 ### TypeScript Needs to Emit Runtime Type Information
 
 - [The Problem](#the-problem)
-- [The 7 year old Github issue](https://github.com/microsoft/TypeScript/issues/3628) 
+- [The 8 year old Github issue](https://github.com/microsoft/TypeScript/issues/3628) 
 
 ### The Unfortunate List of Projects Working Around this Issue
 
@@ -9,9 +9,14 @@
 
 | Project | Stars |
 | --- | --- |
-| [io-ts](https://github.com/gcanti/io-ts) | ![GitHub stars](https://img.shields.io/github/stars/gcanti/io-ts.svg?style=social&label=☆&maxAge=2592000) |
 | [zod](https://github.com/colinhacks/zod) | ![GitHub stars](https://img.shields.io/github/stars/colinhacks/zod.svg?style=social&label=☆&maxAge=2592000) |
+| [io-ts](https://github.com/gcanti/io-ts) | ![GitHub stars](https://img.shields.io/github/stars/gcanti/io-ts.svg?style=social&label=☆&maxAge=2592000) |
+| [yup](https://github.com/jquense/yup) | ![GitHub stars](https://img.shields.io/github/stars/jquense/yup.svg?style=social&label=☆&maxAge=2592000) |
+| [joi](https://github.com/sideway/joi) | ![GitHub stars](https://img.shields.io/github/stars/sideway/joi.svg?style=social&label=☆&maxAge=2592000) |
+| [TypeGraphQL](https://github.com/MichalLytek/type-graphql) | ![GitHub stars](https://img.shields.io/github/stars/MichalLytek/type-graphql.svg?style=social&label=☆&maxAge=2592000) |
+| [Deepkit](https://github.com/deepkit/deepkit-framework) | ![GitHub stars](https://img.shields.io/github/stars/deepkit/deepkit-framework.svg?style=social&label=☆&maxAge=2592000) |
 | [redux-orm](https://github.com/redux-orm/redux-orm) | ![GitHub stars](https://img.shields.io/github/stars/redux-orm/redux-orm.svg?style=social&label=☆&maxAge=2592000) |
+| [superstruct](https://https://github.com/ianstormtaylor/superstruct) | ![GitHub stars](https://img.shields.io/github/stars/ianstormtaylor/superstruct.svg?style=social&label=☆&maxAge=2592000) |
 | [runtypes](https://github.com/pelotom/runtypes) | ![GitHub stars](https://img.shields.io/github/stars/pelotom/runtypes.svg?style=social&label=☆&maxAge=2592000) |
 | [class-transformer](https://github.com/typestack/class-transformer) | ![GitHub stars](https://img.shields.io/github/stars/typestack/class-transformer.svg?style=social&label=☆&maxAge=2592000) |
 | [class-validator](https://github.com/typestack/class-validator) | ![GitHub stars](https://img.shields.io/github/stars/typestack/class-validator.svg?style=social&label=☆&maxAge=2592000) |
@@ -29,22 +34,23 @@
 | [ts-brand](https://github.com/kourge/ts-brand) | ![GitHub stars](https://img.shields.io/github/stars/kourge/ts-brand.svg?style=social&label=☆&maxAge=2592000) |
 | [narrows](https://gitlab.com/jakelazaroff/narrows) | ![GitHub stars](https://img.shields.io/github/stars/jakelazaroff/narrows.svg?style=social&label=☆&maxAge=2592000) |
 | [cleaners](https://github.com/swansontec/cleaners) | ![GitHub stars](https://img.shields.io/github/stars/swansontec/cleaners.svg?style=social&label=☆&maxAge=2592000) |
-| [yup](https://github.com/jquense/yup) | ![GitHub stars](https://img.shields.io/github/stars/jquense/yup.svg?style=social&label=☆&maxAge=2592000) |
-| [joi](https://github.com/sideway/joi) | ![GitHub stars](https://img.shields.io/github/stars/sideway/joi.svg?style=social&label=☆&maxAge=2592000) |
-| [TypeGraphQL](https://github.com/MichalLytek/type-graphql) | ![GitHub stars](https://img.shields.io/github/stars/MichalLytek/type-graphql.svg?style=social&label=☆&maxAge=2592000) |
-| [Deepkit](https://github.com/deepkit/deepkit-framework) | ![GitHub stars](https://img.shields.io/github/stars/deepkit/deepkit-framework.svg?style=social&label=☆&maxAge=2592000) |
 | [Gubu](https://github.com/rjrodger/gubu) | ![GitHub stars](https://img.shields.io/github/stars/rjrodger/gubu.svg?style=social&label=☆&maxAge=2592000) |
 | [typescript-rtti](https://github.com/rezonant/typescript-rtti) | ![GitHub stars](https://img.shields.io/github/stars/rezonant/typescript-rtti.svg?style=social&label=☆&maxAge=2592000) |
 | [unknownutil](https://github.com/lambdalisue/deno-unknownutil) | ![GitHub stars](https://img.shields.io/github/stars/lambdalisue/deno-unknownutil.svg?style=social&label=☆&maxAge=2592000) |
 | [cast.ts](https://github.com/beenotung/cast.ts) | ![GitHub stars](https://img.shields.io/github/stars/beenotung/cast.ts.svg?style=social&label=☆&maxAge=2592000) |
+| [json-decoder](https://github.com/venil7/json-decoder) | ![GitHub stars](https://img.shields.io/github/stars/venil7/json-decoder.svg?style=social&label=☆&maxAge=2592000) |
+| [data-type-ts](https://github.com/ccorcos/data-type-ts) | ![GitHub stars](https://img.shields.io/github/stars/ccorcos/data-type-ts.svg?style=social&label=☆&maxAge=2592000) |
+| [ts-simple-type](https://github.com/runem/ts-simple-type) | ![GitHub stars](https://img.shields.io/github/stars/runem/ts-simple-type.svg?style=social&label=☆&maxAge=2592000) |
 
 ##### Code Generation / External Tool Projects
 
 | Project | Stars |
 | --- | --- |
 | [ts-morph](https://github.com/dsherret/ts-morph) | ![GitHub stars](https://img.shields.io/github/stars/dsherret/ts-morph.svg?style=social&label=☆&maxAge=2592000) |
+| [typia](https://github.com/samchon/typia) | ![GitHub stars](https://img.shields.io/github/stars/samchon/typia.svg?style=social&label=☆&maxAge=2592000) |
 | [tsc-macro](https://github.com/beenotung/tsc-macro) | ![GitHub stars](https://img.shields.io/github/stars/beenotung/tsc-macro.svg?style=social&label=☆&maxAge=2592000) |
 | [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) | ![GitHub stars](https://img.shields.io/github/stars/YousefED/typescript-json-schema.svg?style=social&label=☆&maxAge=2592000) |
+| [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) | ![GitHub stars](https://img.shields.io/github/stars/vega/ts-json-schema-generator.svg?style=social&label=☆&maxAge=2592000) |
 | [typescript-is](https://github.com/woutervh-/typescript-is) | ![GitHub stars](https://img.shields.io/github/stars/woutervh-/typescript-is.svg?style=social&label=☆&maxAge=2592000) |
 | [tsnameof](https://github.com/dsherret/ts-nameof) | ![GitHub stars](https://img.shields.io/github/stars/dsherret/ts-nameof.svg?style=social&label=☆&maxAge=2592000) |
 | [ts-auto-guard](https://github.com/rhys-vdw/ts-auto-guard) | ![GitHub stars](https://img.shields.io/github/stars/rhys-vdw/ts-auto-guard.svg?style=social&label=☆&maxAge=2592000) |
@@ -54,11 +60,13 @@
 | [ts-runtime](https://github.com/goloveychuk/tsruntime) | ![GitHub stars](https://img.shields.io/github/stars/goloveychuk/tsruntime.svg?style=social&label=☆&maxAge=2592000) |
 | [ts-di-transformer](https://github.com/YePpHa/ts-di-transformer) | ![GitHub stars](https://img.shields.io/github/stars/YePpHa/ts-di-transformer.svg?style=social&label=☆&maxAge=2592000) |
 | [typson](https://github.com/lbovet/typson) | ![GitHub stars](https://img.shields.io/github/stars/lbovet/typson.svg?style=social&label=☆&maxAge=2592000) |
-| [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) | ![GitHub stars](https://img.shields.io/github/stars/vega/ts-json-schema-generator.svg?style=social&label=☆&maxAge=2592000) |
 | [ts-type-checked](https://github.com/janjakubnanista/ts-type-checked) | ![GitHub stars](https://img.shields.io/github/stars/janjakubnanista/ts-type-checked.svg?style=social&label=☆&maxAge=2592000) |
 | [tst-reflect](https://github.com/Hookyns/tst-reflect) | ![GitHub stars](https://img.shields.io/github/stars/Hookyns/tst-reflect.svg?style=social&label=☆&maxAge=2592000) |
 | [ttype-safe](https://github.com/donflopez/ttype-safe) | ![GitHub stars](https://img.shields.io/github/stars/donflopez/ttype-safe.svg?style=social&label=☆&maxAge=2592000) |
-| [typia](https://github.com/samchon/typia) | ![GitHub stars](https://img.shields.io/github/stars/samchon/typia.svg?style=social&label=☆&maxAge=2592000) |
+| [reflec-ts](https://github.com/pcan/reflec-ts) | ![GitHub stars](https://img.shields.io/github/stars/pcan/reflec-ts.svg?style=social&label=☆&maxAge=2592000) |
+| [ts-simple-type](https://github.com/runem/ts-simple-type) | ![GitHub stars](https://img.shields.io/github/stars/runem/ts-simple-type.svg?style=social&label=☆&maxAge=2592000) |
+| [ts-interface-builder](https://github.com/gristlabs/ts-interface-builder) | ![GitHub stars](https://img.shields.io/github/stars/gristlabs/ts-interface-builder.svg?style=social&label=☆&maxAge=2592000) |
+
 
 Please send a PR to add to this list.   Even if it's your own project and it has zero stars, you had to deal with this, so it goes on the list. 
 
