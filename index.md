@@ -3,6 +3,8 @@
 - [The Problem](#the-problem)
 - [The 8 year old Github issue](https://github.com/microsoft/TypeScript/issues/3628) 
 
+Please send a PR to add to this list.   Even if it's your own project and it has zero stars, you had to deal with this, so it goes on the list. 
+
 ### The Unfortunate List of Projects Working Around this Issue
 
 ##### Type Mapping Projects
@@ -69,8 +71,6 @@
 | [ts-simple-type](https://github.com/runem/ts-simple-type) | ![GitHub stars](https://img.shields.io/github/stars/runem/ts-simple-type.svg?style=social&label=☆&maxAge=2592000) |
 | [ts-interface-builder](https://github.com/gristlabs/ts-interface-builder) | ![GitHub stars](https://img.shields.io/github/stars/gristlabs/ts-interface-builder.svg?style=social&label=☆&maxAge=2592000) |
 
-
-Please send a PR to add to this list.   Even if it's your own project and it has zero stars, you had to deal with this, so it goes on the list. 
 
 ##### Adapter Projects
 
