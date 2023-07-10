@@ -41,6 +41,8 @@
 | [json-decoder](https://github.com/venil7/json-decoder) | ![GitHub stars](https://img.shields.io/github/stars/venil7/json-decoder.svg?style=social&label=☆&maxAge=2592000) |
 | [data-type-ts](https://github.com/ccorcos/data-type-ts) | ![GitHub stars](https://img.shields.io/github/stars/ccorcos/data-type-ts.svg?style=social&label=☆&maxAge=2592000) |
 | [ts-simple-type](https://github.com/runem/ts-simple-type) | ![GitHub stars](https://img.shields.io/github/stars/runem/ts-simple-type.svg?style=social&label=☆&maxAge=2592000) |
+| [assert-combinators](https://github.com/appliedblockchain/assert-combinators) | ![GitHub stars](https://img.shields.io/github/stars/appliedblockchain/assert-combinators.svg?style=social&label=☆&maxAge=2592000) |
+| [refute](https://github.com/preludejs/refute) | ![GitHub stars](https://img.shields.io/github/stars/preludejs/refute.svg?style=social&label=☆&maxAge=2592000) |
 
 ##### Code Generation / External Tool Projects
 
