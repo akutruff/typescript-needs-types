@@ -70,7 +70,7 @@ Please send a PR to add to this list.   Even if it's your own project and it has
 | [reflec-ts](https://github.com/pcan/reflec-ts) | ![GitHub stars](https://img.shields.io/github/stars/pcan/reflec-ts.svg?style=social&label=☆&maxAge=2592000) |
 | [ts-simple-type](https://github.com/runem/ts-simple-type) | ![GitHub stars](https://img.shields.io/github/stars/runem/ts-simple-type.svg?style=social&label=☆&maxAge=2592000) |
 | [ts-interface-builder](https://github.com/gristlabs/ts-interface-builder) | ![GitHub stars](https://img.shields.io/github/stars/gristlabs/ts-interface-builder.svg?style=social&label=☆&maxAge=2592000) |
-
+| [arktype](https://github.com/arktypeio/arktype) | ![GitHub stars](https://img.shields.io/github/stars/arktypeio/arktype.svg?style=social&label=☆&maxAge=2592000) |
 
 ##### Adapter Projects
 
