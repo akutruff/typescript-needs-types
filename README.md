@@ -19,6 +19,7 @@ Please send a PR to add to this list.   Even if it's your own project and it has
 | [Deepkit](https://github.com/deepkit/deepkit-framework) | ![GitHub stars](https://img.shields.io/github/stars/deepkit/deepkit-framework.svg?style=social&label=☆&maxAge=2592000) |
 | [redux-orm](https://github.com/redux-orm/redux-orm) | ![GitHub stars](https://img.shields.io/github/stars/redux-orm/redux-orm.svg?style=social&label=☆&maxAge=2592000) |
 | [superstruct](https://github.com/ianstormtaylor/superstruct) | ![GitHub stars](https://img.shields.io/github/stars/ianstormtaylor/superstruct.svg?style=social&label=☆&maxAge=2592000) |
+| [ts-pattern](https://github.com/gvergnaud/ts-pattern) | ![GitHub stars](https://img.shields.io/github/stars/gvergnaud/ts-pattern.svg?style=social&label=☆&maxAge=2592000) |
 | [runtypes](https://github.com/pelotom/runtypes) | ![GitHub stars](https://img.shields.io/github/stars/pelotom/runtypes.svg?style=social&label=☆&maxAge=2592000) |
 | [class-transformer](https://github.com/typestack/class-transformer) | ![GitHub stars](https://img.shields.io/github/stars/typestack/class-transformer.svg?style=social&label=☆&maxAge=2592000) |
 | [class-validator](https://github.com/typestack/class-validator) | ![GitHub stars](https://img.shields.io/github/stars/typestack/class-validator.svg?style=social&label=☆&maxAge=2592000) |
@@ -46,7 +47,6 @@ Please send a PR to add to this list.   Even if it's your own project and it has
 | [assert-combinators](https://github.com/appliedblockchain/assert-combinators) | ![GitHub stars](https://img.shields.io/github/stars/appliedblockchain/assert-combinators.svg?style=social&label=☆&maxAge=2592000) |
 | [refute](https://github.com/preludejs/refute) | ![GitHub stars](https://img.shields.io/github/stars/preludejs/refute.svg?style=social&label=☆&maxAge=2592000) |
 | [arktype](https://github.com/arktypeio/arktype) | ![GitHub stars](https://img.shields.io/github/stars/arktypeio/arktype.svg?style=social&label=☆&maxAge=2592000) |
-| [ts-pattern](https://github.com/gvergnaud/ts-pattern) | ![GitHub stars](https://img.shields.io/github/stars/gvergnaud/ts-pattern.svg?style=social&label=☆&maxAge=2592000) |
 
 ##### Code Generation / External Tool Projects
 
