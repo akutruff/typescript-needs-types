@@ -12,6 +12,7 @@ Please send a PR to add to this list.   Even if it's your own project and it has
 | Project | Stars |
 | --- | --- |
 | [zod](https://github.com/colinhacks/zod) | ![GitHub stars](https://img.shields.io/github/stars/colinhacks/zod.svg?style=social&label=☆&maxAge=2592000) |
+| [nimbit](https://github.com/kutruff/nimbit) | ![GitHub stars](https://img.shields.io/github/stars/kutruff/nimbit.svg?style=social&label=☆&maxAge=2592000) |
 | [io-ts](https://github.com/gcanti/io-ts) | ![GitHub stars](https://img.shields.io/github/stars/gcanti/io-ts.svg?style=social&label=☆&maxAge=2592000) |
 | [yup](https://github.com/jquense/yup) | ![GitHub stars](https://img.shields.io/github/stars/jquense/yup.svg?style=social&label=☆&maxAge=2592000) |
 | [joi](https://github.com/sideway/joi) | ![GitHub stars](https://img.shields.io/github/stars/sideway/joi.svg?style=social&label=☆&maxAge=2592000) |
