@@ -48,6 +48,7 @@ Please send a PR to add to this list.   Even if it's your own project and it has
 | [assert-combinators](https://github.com/appliedblockchain/assert-combinators) | ![GitHub stars](https://img.shields.io/github/stars/appliedblockchain/assert-combinators.svg?style=social&label=☆&maxAge=2592000) |
 | [refute](https://github.com/preludejs/refute) | ![GitHub stars](https://img.shields.io/github/stars/preludejs/refute.svg?style=social&label=☆&maxAge=2592000) |
 | [arktype](https://github.com/arktypeio/arktype) | ![GitHub stars](https://img.shields.io/github/stars/arktypeio/arktype.svg?style=social&label=☆&maxAge=2592000) |
+| [mondrian-framework](https://github.com/mondrian-framework/mondrian-framework) | ![GitHub stars](https://img.shields.io/github/stars/mondrian-framework/mondrian-framework.svg?style=social&label=☆&maxAge=2592000) |
 
 ##### Code Generation / External Tool Projects
 
